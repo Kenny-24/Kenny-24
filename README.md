@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hi 👋
+ 
+| 表头1  |  表头1  |    
+| :----------: | :----------: | 
+| 表格单元   | 表格单元   | 
 
-| Front-end  | Back-end   | DevOps     |
-| ---------- | ---------- | ---------- |
-| ![Vue](https://https://www.javascriptc.com/vue3js/logo.png “Vue”) | 单元格内容 | 单元格内容 |
-| 单元格内容 | 单元格内容 | 单元格内容 |
+| 表头1  |  表头1  |    
+| :----------: | :----------: | 
+| 表格单元   | 表格单元   | 
 
 <!--
 **Kenny-24/Kenny-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
