@@ -1,12 +1,12 @@
 ### Hi 👋
- 
-| 表头1  |  表头1  |    
-| :----------: | :----------: | 
-| 表格单元   | 表格单元   | 
 
-| 表头1  |  表头1  |    
-| :----------: | :----------: | 
-| 表格单元   | 表格单元   | 
+<div align=center width='100%'>
+
+| 表头1  |  表头1  |                   
+| :----------: | :----------: |        
+| [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)   | 表格单元   |     
+
+</div>
 
 <!--
 **Kenny-24/Kenny-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
