@@ -3,8 +3,9 @@
 | Front-end | Back-end | DevOps |
 | --------- | -------- | ------ |
 
-| ![Vue](https://https://www.javascriptc.com/vue3js/logo.png “Vue”) | 单元格内容 | 单元格内容 |
+| bbb | 单元格内容 | 单元格内容 |
 | 单元格内容 | 单元格内容 | 单元格内容 |
+[Open Platform for AI (OpenPAI)](https://github.com/Microsoft/pai)
 
 <!--
 **Kenny-24/Kenny-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
