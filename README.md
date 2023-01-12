@@ -3,8 +3,7 @@
 | Front-end | Back-end | DevOps |
 | --------- | -------- | ------ |
 
-| ![Vue](https://https://www.javascriptc.com/vue3js/logo.png “Vue”)  
- | 单元格内容 | 单元格内容 |
+| ![Vue](https://https://www.javascriptc.com/vue3js/logo.png “Vue”) | 单元格内容 | 单元格内容 |
 | 单元格内容 | 单元格内容 | 单元格内容 |
 
 <!--
