@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-| Front-end | Back-end | DevOps |
-| --------- | -------- | ------ |
-
-| bbb | 单元格内容 | 单元格内容 |
+| Front-end  | Back-end   | DevOps     |
+| ---------- | ---------- | ---------- |
 | 单元格内容 | 单元格内容 | 单元格内容 |
-[Open Platform for AI (OpenPAI)](https://github.com/Microsoft/pai)
+| 单元格内容 | 单元格内容 | 单元格内容 |
 
 <!--
 **Kenny-24/Kenny-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
