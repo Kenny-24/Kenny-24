@@ -1,10 +1,12 @@
 ### Hi 👋
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,redux,vite,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql)](https://skillicons.dev)
 
 <div align=center width='100%'>
 
 | 表头1  |  表头1  |                   
 | :----------: | :----------: |        
-| [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)   | 表格单元   |     
+|    | 表格单元   |     
 
 </div>
 
