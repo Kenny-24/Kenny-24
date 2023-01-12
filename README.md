@@ -1,14 +1,15 @@
 ### Hi 👋
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,redux,vite,webpack)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql)](https://skillicons.dev)
 
-<div align=center width='100%'>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,redux,vite,webpack)]</br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql)]
+<!-- <div align=center width='100%'>
 
 | 表头1  |  表头1  |                   
 | :----------: | :----------: |        
-|    | 表格单元   |     
+|  在  | 表格单元   |     
 
-</div>
+</div> -->
+
 
 <!--
 **Kenny-24/Kenny-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
