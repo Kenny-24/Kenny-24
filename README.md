@@ -1,4 +1,4 @@
-### Welcome 👋
+## Welcome 👋
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,redux,vite,webpack)</br>
 ![My Skills](https://skillicons.dev/icons?i=nodejs,mysql)
@@ -11,7 +11,7 @@
 </div> -->
 <div align=center width='100%'>
 
-# Visitor Count
+### Visitor Count
 
 </div>
 <div align=center width='100%'>
