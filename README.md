@@ -9,8 +9,9 @@
 |  在  | 表格单元   |     
 
 </div> -->
+<div align=center width='100%'>
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
-
+</div>
 <!--
 **Kenny-24/Kenny-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
