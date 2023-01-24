@@ -1,7 +1,7 @@
 ## Welcome 👋
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,redux,vite,webpack)</br>
-![My Skills](https://skillicons.dev/icons?i=nodejs,mysql)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,react,redux,vite,webpack)</br>
+![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,jest,mysql,docker,nginx	)
 <!-- <div align=center width='100%'>
 
 | 表头1  |  表头1  |                   
